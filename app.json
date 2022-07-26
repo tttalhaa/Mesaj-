@@ -1,7 +1,7 @@
 {
 	"name": "luci mesaj bot ",
 	"description": "Lucifer için mesaj Botu.",
-	"repository": "https://github.com/Meinos10/LuciReq",
+	"repository": "https://github.com/tttalhaa/Mesaj",
 	"env": {
 		"BOT_TOKEN": {
 			"description": "@BotFather dan alabiliceğiniz bot token."
