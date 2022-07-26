@@ -8,7 +8,7 @@ Client = Bot(
     API_ID,
     API_HASH,
     bot_token=BOT_TOKEN,
-    plugins=dict(root="main.py ")
+    plugins=dict(root="start.py")
 )
 
 Client.run() 
